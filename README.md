@@ -177,9 +177,9 @@ Model performance was evaluated using **RMSE (Root Mean Square Error)** and **MA
 
 ## Traffic Speed Prediction
 
-```markdown
+
 ![Traffic Prediction](images/prediction.png)
-```
+
 
 This graph compares **actual traffic speed vs predicted traffic speed**.
 
@@ -187,9 +187,9 @@ This graph compares **actual traffic speed vs predicted traffic speed**.
 
 ## Residual Error Analysis
 
-```markdown
+
 ![Residual Errors](images/residuals.png)
-```
+
 
 Residual errors are centered around zero, indicating accurate predictions.
 
@@ -197,9 +197,9 @@ Residual errors are centered around zero, indicating accurate predictions.
 
 ## Error Distribution
 
-```markdown
+
 ![Error Distribution](images/error_distribution.png)
-```
+
 
 The histogram shows that prediction errors are mostly small and normally distributed.
 
