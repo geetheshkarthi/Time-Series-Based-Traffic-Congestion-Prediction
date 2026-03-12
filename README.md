@@ -22,10 +22,10 @@ Key goals of the project:
 
 # 📊 Dataset
 
-**Dataset Used:** METR-LA Traffic Dataset
+**Dataset Used:** A Large Scale PeMS Traffic Speed Dataset(pems-4w)
 
-The dataset contains traffic speed data collected from road sensors in Los Angeles.
-
+ is a traffic speed data set collected by California Freeway Performance Measurement System (PeMS). In this data set, it has 11160 time series corresponding to 11160 sensors/locations. In three data files (i.e., pems-4w.csv, pems-8w.csv, and pems-12w.csv), each time series is indeed a time series with 288 (5-minute) time points per day during the first 4 weeks (PeMS-4W), first 8 weeks (PeMS-8W), and first 12 weeks (PeMS-12W) of 2018, respectively.
+Link : "https://zenodo.org/records/3939793"
 ### Key Features
 
 - **Timestamp** – Time of traffic measurement  
